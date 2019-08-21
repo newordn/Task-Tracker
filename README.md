@@ -1,2 +1,2 @@
 # Firstly based on this medium 
-[Go to the medium](http://proxycrime.com/browse.php?u=fsDRilsgtxrNQcbNdMjim7JRzbXUqqSCtb4xuVz%2BuOrpd03siDFFDlAAqPC1iPubffAsgYI1zsPy2h9SbcK%2FUizk1EKwnIz5H4IfRjbk%2FE4NLA%3D%3D&b=13&f=norefer)
+[Go to the medium](https://medium.com/better-programming/creating-a-simple-app-with-react-js-f6aa88998952)
